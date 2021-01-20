@@ -20,7 +20,8 @@ IP:
 
 En el panel de control de Wordpress se añadirán nuevos temas pulsando en "**Apariencia &gt; Temas**" y después "**Añadir un tema nuevo**". Se añadirán un par de temas de prueba. Para activarlos se pulsará otra vez en el menú principal de "**Temas**" y en "**Activar**" sobre el tema deseado:
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../. gitbook/assets/image%20%2811%29.png)
+![](https://raw.githubusercontent.com/ivanmp-lm/IAW/master/.gitbook/assets/image%20(11).png)
 
 Tras activar uno de los temas elegidos, se procede a editar brevemente la página aprovechando que uno de los temas contiene también una página de ejemplo para partir de una plantilla:
 
